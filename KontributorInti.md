@@ -1,6 +1,5 @@
 # Kontributor Inti
 
-
 1. Herpiko Dwi Aguno <herpiko@gmail.com> (Piko)
     - Telegram: herpiko
     - Kunci Publik GPG: `46A04ACC3571C72340CE5DFF1DCCCA0F341E8101`
@@ -21,3 +20,8 @@
     - Kunci Publik GPG: `65C4F8CCA44402DDCE9EB9985F3D6D9F31A402B6`
     - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNEXiJMxT7AOrPtcgfeDXa0LPwKfzGAbamdUXaLslup fdzak01@gmail.com`
     - Kota: Depok
+5. Bagus Kusuma Loka <baguskusumaloka@gmail.com> (sugaB)
+    - Telegram: kusuma_loka 
+    - Kunci Publik GPG: `AF58BB7FAB67E04AE28E792F6C61266D15704311`
+    - Kunci Publik SSH: `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICcWVHLEo8DptNsLUoqma10tw1pKITOXjNFqlzfJSwVX github-key'
+    - Kota: Jakarta
